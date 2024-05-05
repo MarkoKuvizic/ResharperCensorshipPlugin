@@ -1,0 +1,2 @@
+badWord ==> word
+badWord2 ==> word2
